@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Sigit](https://github.com/Sigitto)
+- Place: Cianjur, Indonesia
+- Bio: Student
+- GitHub: [Sigitto](https://github.com/Sigitto)
